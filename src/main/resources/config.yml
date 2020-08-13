@@ -1,0 +1,13 @@
+report:
+  expiration-time: 172800
+  message:
+    - '&aNew report'
+    - '&fTarget: &7$target'
+    - '&fAuthor: &7$author'
+    - '&fReason: &7$reason'
+  reasons:
+    cheating:
+      material: 'DIAMOND_SWORD'
+      display-name: '&bCheating'
+      name: 'Cheating'
+      glow: true

@@ -1,0 +1,7 @@
+name: ModerationPlugin
+author: Diogo Murano
+version: 1.0.0
+main: xyz.diogomurano.moderation.ModerationPlugin
+depend: [ProtocolLib]
+commands:
+  bm:

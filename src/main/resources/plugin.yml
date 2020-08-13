@@ -1,0 +1,7 @@
+name: ModerationPlugin
+author: Sophia Laura
+version: 1.0.0
+main: xyz.sophialaura.moderation.ModerationPlugin
+depend: [ProtocolLib]
+commands:
+  bm:
